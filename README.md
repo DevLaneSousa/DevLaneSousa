@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá, eu sou a Lane 👋
 
-<!--
-**DevLaneSousa/DevLaneSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI/UX Designer & Desenvolvedora Full Stack. Transformo ideias em produtos digitais que conectam design, tecnologia e pessoas, do protótipo ao deploy.
 
-Here are some ideas to get you started:
+- 💼 Desenvolvedora de Software na **VCA Construtora**
+- 🎨 UI/UX no Figma · front-end com Vue, React, Next.js e React Native
+- ⚙️ Back-end e integrações com NestJS, Node.js, PostgreSQL e APIs REST
+- ✨ Animações com GSAP e ScrollTrigger
+- 🎤 Palestrante em eventos de tecnologia e mentora de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfólio: [lanecodes.dev](https://lanecodes.dev)
+
+**Stack:** Vue · Quasar · React · Next.js · React Native · TypeScript · NestJS · Node.js · PostgreSQL · Prisma · GSAP · Figma
